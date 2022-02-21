@@ -1,6 +1,9 @@
-# Vue 3 + Vite
+# 图片懒加载实践
+利用 IntersectionObserver api 实现可视区检测
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+相关博客：
+[利用IntersectionObserver 分分钟实现图片懒加载](https://juejin.cn/post/7067002674863931422)
+## vite + vue3
 
 ## Recommended IDE Setup
 
